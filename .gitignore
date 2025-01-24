@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Python virtual environment
+.venv/
+
+# Logs
+*.log
+
+# Editor directories
+.vscode/
+.idea/
+
+# Environment variables
+.env
