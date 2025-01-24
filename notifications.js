@@ -14,3 +14,5 @@ function sendAlertNotification (message) {
         message,
     })
 }
+
+export default sendAlertNotification;
